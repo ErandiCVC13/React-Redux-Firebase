@@ -1,4 +1,4 @@
-html {
+/* html {
   min-height: 100%;
 }
 body {
@@ -30,4 +30,4 @@ input[type="password"]:not(.browser-default):focus:not([readonly]),
 textarea.materialize-textarea:focus:not([readonly]) {
   border-color: #ec407a;
   box-shadow: none;
-}
+} */
